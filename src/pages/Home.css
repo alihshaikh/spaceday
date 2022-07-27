@@ -1,0 +1,34 @@
+.title {
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.slogan {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.buttonformat {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    padding-top: 200px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.h1 {
+    font-size: 16px;
+}
