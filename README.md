@@ -1,1 +1,1 @@
-# whats-my-space
+# Astrological Picture of the Day
